@@ -28,3 +28,9 @@ li.navitem a:hover {
     background-color: #ddd;
     color: black;
 }
+
+.customLink {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
