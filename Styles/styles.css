@@ -4,7 +4,7 @@ body {
     padding: 0;
 }
 
-ul.navbar {
+nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -12,11 +12,11 @@ ul.navbar {
     overflow: hidden;
 }
 
-li.navitem {
+nav ul li {
     float: left;
 }
 
-li.navitem a {
+nav ul li a {
     display: block;
     color: white;
     text-align: center;
@@ -24,7 +24,7 @@ li.navitem a {
     text-decoration: none;
 }
 
-li.navitem a:hover {
+nav ul li a:hover {
     background-color: #ddd;
     color: black;
 }
